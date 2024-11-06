@@ -6,3 +6,4 @@ tensorboard-data-server==0.7.2
 tensorflow==2.18.0
 tensorflow-serving-api==2.18.0
 uvicorn==0.32.0
+python-multipart==0.0.17
