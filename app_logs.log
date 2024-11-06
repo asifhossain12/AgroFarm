@@ -1,0 +1,10 @@
+2024-11-04 23:02:33,419 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-11-04 23:02:48,116 - __main__ - ERROR - Unicode encoding error in prediction output: 'charmap' codec can't encode characters in position 19-38: character maps to <undefined>
+2024-11-04 23:03:06,059 - __main__ - ERROR - Unicode encoding error in prediction output: 'charmap' codec can't encode characters in position 19-38: character maps to <undefined>
+2024-11-04 23:04:17,990 - __main__ - ERROR - Unicode encoding error in prediction output: 'charmap' codec can't encode characters in position 19-38: character maps to <undefined>
+2024-11-04 23:05:07,345 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-11-04 23:05:19,073 - __main__ - ERROR - Unicode encoding error in prediction output: 'charmap' codec can't encode characters in position 19-38: character maps to <undefined>
+2024-11-04 23:05:28,340 - __main__ - ERROR - Unicode encoding error in prediction output: 'charmap' codec can't encode characters in position 19-38: character maps to <undefined>
+2024-11-04 23:07:15,226 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-11-04 23:07:41,830 - __main__ - ERROR - Unicode encoding error in prediction output: 'charmap' codec can't encode characters in position 19-38: character maps to <undefined>
+2024-11-04 23:07:45,197 - __main__ - ERROR - Unicode encoding error in prediction output: 'charmap' codec can't encode characters in position 19-38: character maps to <undefined>
