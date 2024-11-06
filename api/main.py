@@ -17,7 +17,7 @@ os.environ['PYTHONIOENCODING'] = 'utf-8'
 
 app = FastAPI()
 
-MODEL_PATH = "F:/Deep Learning/Potato Disease Classification/api/models/1.h5"
+MODEL_PATH = "models/1.h5"
 
 try:
     MODEL = tf.keras.models.load_model(MODEL_PATH) 
