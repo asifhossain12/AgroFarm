@@ -33,7 +33,7 @@ CLASS_NAMES = ["Early Blight", "Late Blight", "Healthy"]
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://agrofarm-bkwd.onrender.com"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
